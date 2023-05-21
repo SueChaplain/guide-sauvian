@@ -1,0 +1,28 @@
+site_name: Sauvian villa
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: light blue
+    
+
+use_directory_urls: false
+
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: French
+      link: /fr/
+      lang: fr
+
+nav:
+    - Welcome: index.md
+    - Villa information: villa.md
+    - Local amenities: localamenities.md
+    - Local beaches: localbeaches.md
+    - Days out: daysout.md
+    - Before you leave: endofstay.md
