@@ -24,23 +24,18 @@ Use the following security key: **Z9bC pAhm v6Y9 XU5ffe**
 
 The pool is 1.3 metres at the shallow end and 1.7 metres at the deep end. Do not dive.
 
-A pool security fence is provided that complies with French law and allows you to manage the safety of your party. The fence consists of 3 metre panels that are connected with secure clips. Unclip a section and remove a pole to create an opening for access. If the fence is removed it must be stored in the container provided.  
+A pool security fence is provided that complies with French law and allows you to manage the safety of your party. The fence consists of 3 metre panels that are connected with safety hooks. Unhook a section and remove a pole to create an opening for access. Follow these steps: 
 
+- Hold the two poles and put pressure on them to bring them closer together.
+- Release the safety latch (the movable piece on one end of the spring).
+- Lift up the hook to separate the sections.
+- Lift up a pole by turning it. 
 
-*The pool is equipped with a pool alarm to comply with French law and to help you monitor
-the safety of your party. It is not a substitute for careful vigilance. Water displacement,
-such as occurs when an object breaks the surface, automatically triggers the alarm.
-Deactivate the alarm sensor when you want to use the pool and can safely supervise all
-members of your party. The alarm sensor should remain active at all other times.*
+Close any access points at the end of the supervised swimming session.
 
-*To deactivate the sensor, enter the following passcode on the keypad: 1234
-The sensor automatically reactivates when the pool has been vacated for approximately
-10 minutes.*
+If the fence is removed it must be stored in the container provided and replaced before you leave. 
 
-*In the event that the pool alarm is activated, a siren will sound. Deactivate the alarm by
-pressing any key on the keypad.*
-
-Please read the pool safety fact sheet.
+Please read the pool safety fact sheet that is included with the house notes.
 
 Pool towels are provided for use by guests but must not be taken to the beach.
 The pool is cleaned once a week and the pool management company have a key to the
@@ -73,8 +68,15 @@ The ironing board, iron, vacuum cleaner and other cleaning tools or products are
 The **green bin** is for general household waste, which is collected each Wednesday and Saturday. All waste must be in tied bags.
 
 The **black bin** with the yellow lid is for recycling and is collected every 2 weeks on a
-Saturday afternoon. You can find the collection calendar (calendrier de collecte) in the printed house notes or simply check to see whether this bin is put out by neighbours. Note
-that the recycling bin must not be used for glass, which should be taken to a community bin. (You are likely to pass several dedicated glass bins around the streets of Sauvian.)
+Saturday afternoon. The Summer dates for 2023 are as follows: 
+
+- 8th July
+- 22nd July
+- 5th August
+- 19th August
+- 2nd September
+
+Note that the recycling bin must not be used for glass, which should be taken to a community bin. (You are likely to pass several dedicated glass bins around the streets of Sauvian.)
 
 Please put the bins outside the front of the property for collection and bring them back in after they have been emptied. 
 
@@ -95,7 +97,7 @@ which is then used for the cold water, ice, and crushed ice supply.
 
 ## Windy days
 
-The Languedoc is the windiest region of France. In the heat of the Summer it is very welcome to take the edge off the heat. However, on very windy days, we can experience a wind tunnel effect through the house if the doors or windows are open at the back and the front of the house  simultaneously. The doors are prone to slam shut, which might cause injury, so please take
+The Languedoc is the windiest region of France. In the peak season, the wind is very welcome to take the edge off the heat. However, on very windy days, we can experience a wind tunnel effect through the house if the doors or windows are open at the back and the front of the house  simultaneously. The doors are prone to slam shut, which might cause injury, so please take
 care. During high winds, we recommend keeping the back doors and windows closed, and
 closing the internal door to the green bedroom before opening the external door to the back of the property.
 
@@ -115,8 +117,7 @@ the lounge, together with spare light bulbs, should they be needed.
 ## Bicycles
 
 There are a couple of bicycles in the garage that you are free to use at your own risk to get
-about locally. All we ask is that you lock them up when out and about and leave them in
-the condition you found them so that our next guests can make use of them too.
+about locally. All we ask is that you lock them up when you take them out and repair any punctures so that our next guests can make use of them too. A puncture repair kit is located in the top drawer of the cabinet in the dining area.
 
 ## Cot and highchair
 

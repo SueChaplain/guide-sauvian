@@ -12,6 +12,7 @@ rental contract, any deep cleaning that is necessary as a result of neglect will
 extra charge, which may be deducted from your deposit.
 - Close the security blinds in the lounge and lock all the doors before returning all the
 keys to the key box. Please spin the dial when you close the box to secure the code.
+- Ensure that the pool safety fence is in place for our next guests.
 - Ensure that the bins are inside the gate.
 - Slide the gate closed behind you.
 

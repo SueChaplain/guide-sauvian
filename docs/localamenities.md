@@ -37,6 +37,7 @@ Several restaurants and food outlets can be found in the centre of Sauvian by Pl
 - **Le Nouvel Air**, a traditional French restaurant. 
 - **La Buena Vida**, offering simple meals at modest prices.
 - **Divin Café**, offering a great selection of tapas with occasional live music entertainment.
+- **Chèz Boule** (Les Arcades), a traditional French cafe.
 - **La Cabane**, offering a small Mediterranean menu.
 - **Pizza Atina**, our recommendation for a quick takeaway pizza. 
 

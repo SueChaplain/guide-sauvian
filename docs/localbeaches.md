@@ -22,16 +22,22 @@ At the Western end is our favourite stretch, **Les Orpèllieres**. The beach is 
 
 Valras plage is a busy resort with many shops, bars, and restaurants. The supervised beach is busier than Serignan plage, but has plenty of facilities including watersports hire and children's play areas. It's definietly a good destination for a family with young children.
 
+![Valras](./images/valras.jpg)
+
 ## Vendres plage
 
 *Travel time: 15 minutes by car*
 
-Vendres plage stretches from Valras plage all the way to the port of Chicoulet at the mouth of the Aude river. Although the beach supports many camp sites, it is so vast that there is plenty of space for everyone. One advantage it has over Valras plage is easier parking. There are also some very nice seafood restaurants at the port that cook and serve the day's catch. 
+Vendres plage stretches from Valras plage all the way to the port of Chichoulet at the mouth of the Aude river. Although the beach supports several camp sites, it is so vast that there is plenty of space for everyone. One advantage it has over Valras plage is easier parking. There are also some very nice seafood restaurants at the port that cook and serve the day's catch. 
+
+![Vendres](./images/vendres.jpg)
 
 ## Les Cabanes de Fleury
 
 *Travel time: 20 minutes by car*
 
-To reach this stretch of sandy beach you must travel a short distance up the Aude river from the port of Chicoulet to cross over at the bridge, Pont de la Pistoule. The first stretch of beach is supervised but gives way to a wilder, more rugged section that stretches infinitely into the distance.  
+To reach this stretch of sandy beach you must travel a short distance up the Aude river from the port of Chichoulet to cross over at the bridge, Pont de la Pistoule. The first stretch of beach is supervised but gives way to a wilder, more rugged section that stretches infinitely into the distance.  
+
+![Fleury](./images/fleury.jpg)
 
 The pretty commune of Les Cabanes has a few restaurants for refreshments.
