@@ -127,13 +127,14 @@ A booster seat for small children to use at the table can be found in the cabine
 
 ## Television
 
-The television is a smart television, with the usual selection of applications such as Netflix. French television channels are available and the Humax box provides access to English television channels.   
+The television is a smart television, with the usual selection of applications such as Netflix. 
+An Amazon Fire Stick is also provided for accessing additional services. Terrestrial French television channels are also available.
+
+**English channels**: The Humax box provides access to English television channels. However, Humax cannot receive high definition (HD) channels in France. Whilst some non-HD channels are available, the Amazon Fire Stick can be used to reach services such as BBC iPlayer, ITVX, More4, and Channel 5. Before connecting to these services, start the **NordVPN** application on the Fire stick and connect to a UK server. Then start the service you want to watch.    
 
 Please do not alter the position or angle of the television to avoid excessive stress on the
 wall fixings.
 
-## Need help? 
+## Problems? 
 
-Juliana Forte, who runs our property management company, can be contacted if you have
-problems and need help. Juliana’s mobile number is +33 (0) 6 7955 4335. Please refer to
-your rental contract.
+See [Need help?](help.md). 

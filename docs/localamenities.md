@@ -8,15 +8,13 @@ Most of the amenities mentioned here can be found by using the Google Maps **Dir
 
 ## Supermarkets
 
-The closest supermarkets are the **G20** (Zac Les Portes de Sauvian) and the **Utile** (11 Avenue  Paul Vidal).
+The closest supermarkets are the **Carrefour Market** (Zac Les Portes de Sauvian) and the **Utile** (11 Avenue  Paul Vidal).
 
 Both take about 10 minutes to walk to, or just a couple of minutes by car. 
 
-The **G20** is the larger of the two and is well stocked with everyday goods as well as fresh
-bread, vegetables, and meat. On most days they also have a fresh fish counter. This
-supermarket is open on a Sunday morning. 
+The **Carrefour Market** is the larger of the two and is well stocked with everyday goods as well as fresh bread, vegetables, and meat. On most days they also have a fresh fish counter. This supermarket is open on a Sunday morning. 
 
-The nearest hypermarket is **Carrefour** (Route de Valras) in the neighbouring village of Sérignan, which is about a 10 minute drive. The **Carrefour** is usually open all day on Sundays during the peak summer period. You can also find an **Aldi** and **Lidl** close to the **Carrefour** store.
+The nearest hypermarket is **Carrefour Sérignan** (Route de Valras) in the neighbouring village of Sérignan, which is about a 10 minute drive. The hypermarket is usually open all day on Sundays during the peak summer period. You can also find an **Aldi** and **Lidl** close to the **Carrefour Sérignan** store.
 
 ## Butchers and bakery
 
@@ -39,7 +37,7 @@ Several restaurants and food outlets can be found in the centre of Sauvian by Pl
 - **Divin Café**, offering a great selection of tapas with occasional live music entertainment.
 - **Chèz Boule** (Les Arcades), a traditional French cafe.
 - **La Cabane**, offering a small Mediterranean menu.
-- **Pizza Atina**, our recommendation for a quick takeaway pizza. 
+- **Le table d'Amaya**, our recommendation for a quick takeaway pizza. 
 
 On a Sunday you can buy freshly roasted chicken and Mediterranean couscous from a
 mobile vendor, who uses the car park in the centre of Sauvian. His food is very popular with the locals.
@@ -69,7 +67,7 @@ For more information, see:
 - [Ligne E: Bus schedule](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/) 
 - [Ligne E: Bus route](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
 
-There are 8 bus stops on the main road through Sauvian. All are clearly marked on Google maps. The closest bus stop to the villa is **Font Vive** on Route de Beziers, by the G20 supermarket. 
+There are 8 bus stops on the main road through Sauvian. All are clearly marked on Google maps. The closest bus stop to the villa is **Font Vive** on Route de Beziers, by the Carrefour Market supermarket. 
 
 ## Children's play areas
 
