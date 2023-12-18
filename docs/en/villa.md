@@ -18,7 +18,7 @@ The wifi network for the villa is called **Livebox-A58C**.
 
 Use the following security key: **Z9bC pAhm v6Y9 XU5ffe**
 
-(Enter with no spaces and upper case alphas)
+(Enter with no spaces)
 
 ## Pool
 

@@ -9,6 +9,7 @@ theme:
 
 use_directory_urls: false
 
+
 nav:
     - Welcome: index.md
     - Villa information: villa.md
@@ -17,3 +18,26 @@ nav:
     - Days out: daysout.md
     - Before you leave: endofstay.md
     - Need help?: help.md
+    
+plugins:
+  - search
+  - i18n:
+      reconfigure_search: true
+      reconfigure_material: true
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            Welcome: Bienvenue
+            Villa information: A propos de la villa
+            Local amenities: Les commodités locales
+            Local beaches: Les plages locales
+            Days out: Sejours
+            Before you leave: Avant de partir
+            Need help?: Besion d'aide?
