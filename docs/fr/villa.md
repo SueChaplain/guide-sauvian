@@ -15,7 +15,11 @@ Veuillez vous assurer que la villa est fermée à clé lorsque vous sortez et qu
 
 Le réseau wifi de la villa s'appelle **Livebox-A58C**.
 
-Utilisez la clé de sécurité suivante : **Z9bC pAhm v6Y9 XU5ffe**
+Pour y accéder, scannez le code QR ou entrez la clé de sécurité.
+
+![Wifi QR code](./images/frwifi.png)
+
+La clé de sécurité: **Z9bC pAhm v6Y9 XU5ffe**
 
 (Entrer sans espace)
 
