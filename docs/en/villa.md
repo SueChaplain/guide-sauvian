@@ -18,7 +18,7 @@ The wifi network for the villa is called **Livebox-A58C**.
 
 To access, scan the QR code or enter the security key.
 
-![Wifi QR code](./images/frwifi.png)
+<img src="../Images/qrcode.png" alt="QR code" height="200"/>
 
 Security key: **Z9bC pAhm v6Y9 XU5ffe**
 

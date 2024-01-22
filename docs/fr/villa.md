@@ -17,7 +17,7 @@ Le réseau wifi de la villa s'appelle **Livebox-A58C**.
 
 Pour y accéder, scannez le code QR ou entrez la clé de sécurité.
 
-![Wifi QR code](./images/frwifi.png)
+<img src="../Images/qrcode.png" alt="QR code" height="200"/>
 
 La clé de sécurité: **Z9bC pAhm v6Y9 XU5ffe**
 

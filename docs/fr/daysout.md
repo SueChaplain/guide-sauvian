@@ -11,7 +11,7 @@ La ville de Béziers est à portée de main et vaut vraiment la peine d'être ex
 
 Le parking du Pont Vieux est entièrement gratuit et si vous êtes suffisamment en forme pour franchir quelques marches et passerelles, vous pourrez facilement accéder à la cathédrale Saint-Nazaire, dans la partie la plus ancienne de la ville. La cathédrale est spectaculaire, avec de magnifiques vitraux et une vue imprenable sur le paysage jusqu'à la Méditerranée. 
 
-![Béziers](./images/beziers.jpg)
+<img width="100%" src="../Images/beziers.jpg" alt="Photo Pont Vieux, Beziers"/>
 
 Depuis la cathédrale, vous pouvez vous promener dans les rues pavées de cette ville ancienne, admirer l'architecture et explorer le marché couvert **Les Halles**. Le centre commercial de Béziers est l'Allée Paul-Riquet, une large rue piétonne bordée de magnifiques platanes. De nombreux jours de la semaine, cette rue se transforme en un marché animé. Le marché aux fleurs du vendredi est un événement à ne pas manquer.
 
@@ -26,7 +26,7 @@ Depuis la cathédrale, vous pouvez vous promener dans les rues pavées de cette 
 La citadelle médiévale de Carcasonne est facilement accessible et offre une excellente journée pour la famille. Perchée sur le flanc d'une colline, cette fortification massive est étonnante, avec tourelles et créneaux qui pourraient sortir tout droit d'un livre d'histoire.
 
 
-![Carcasonne](./images/carcasonne.jpg)
+<img width="100%" src="../Images/carcasonne.jpg" alt="Photo Carcasonne"/>
 
 
 À l'intérieur des remparts se trouve une ville prospère, avec de nombreux magasins, bars et restaurants. Visitez l'église de la cité, la Basilique St-Nazaire, pour admirer d'étonnants vitraux médiévaux. Le château Comtal est un château situé à l'intérieur de la cité et présente certaines des meilleures défenses militaires que l'on puisse trouver dans un château ancien.
@@ -49,7 +49,7 @@ Il est possible de louer un bateau sur le canal sans permis. Nous vous recommand
 
 Narbonne n'est qu'à une courte distance en voiture et a beaucoup à voir, y compris le palais des archevêques et l'impressionnante Cathédrale-St-Just. 
 
-![Narbonne](./images/narbonne.jpg)
+<img width="100%" src="../Images/narbonne.jpg" alt="Photo Narbonne"/>
 
 L'itinéraire le plus simple pour se rendre à Narbonne est l'autoroute A9 (route à péage). Cependant, pour quelques minutes supplémentaires en voiture, vous pouvez rejoindre la ville par des routes secondaires, qui traversent des villages intéressants dans la campagne tranquille.
 
@@ -57,7 +57,7 @@ L'itinéraire le plus simple pour se rendre à Narbonne est l'autoroute A9 (rout
 
 Une autre destination proche de Narbonne qui mérite une visite si vous avez le temps est le village balnéaire de Gruissan. Du haut de l'ancienne tour, la vue sur la Méditerranée est époustouflante. 
 
-![Gruissan](./images/gruissan.jpg)
+<img width="100%" src="../Images/gruissan.jpg" alt="Photo Gruissan"/>
 
 Dirigez-vous vers le sud en direction de Narbonne plage et suivez les panneaux indiquant Gruissan.
 
@@ -67,13 +67,14 @@ Dirigez-vous vers le sud en direction de Narbonne plage et suivez les panneaux i
 
 Marseillan est un petit mais joli port situé sur l'étang de Thau, célèbre pour ses parcs à huîtres. Vous pouvez faire un tour en bateau autour de l'étang ou déguster la dernière pêche dans l'un des nombreux restaurants qui bordent les quais. 
 
-![Marseillan](./images/marseillan.jpg)
+<img width="100%" src="../Images/marseillan.jpg" alt="Photo Marseillan"/>
 
 Marseillan est également le berceau du Noilly Prat, une liqueur populaire d'Occitanie. 
 
 Si vous souhaitez combiner cette excursion avec une sortie à la plage, prenez la route côtière vers Sète depuis Marseillan pour trouver l'une des plages les plus longues et les plus désertes du Languedoc. Nous vous conseillons de vous garer au parking des Trois Digues (gratuit) pour accéder à la plage. 
 
-![Digues](./images/digues.jpg)
+<img width="100%" src="../Images/digues.jpg" alt="Photo plage Three Digues"/>
+
 
 ### Haute Languedoc 
 
@@ -89,7 +90,7 @@ Certains villages sont chargés d'histoire et remontent à l'époque médiévale
 
 Une tour du Xe siècle domine l'horizon de ce joli village, perché sur une colline qui surplombe la rivière Orb. 
 
-![Roquebrun](./images/roquebrun.jpg)
+<img width="100%" src="../Images/roquebrun.jpg" alt="Photo Roquebrun"/>
 
 Nous vous conseillons de vous garer sur la rive proche de l'Orb et de traverser le pont à pied pour rejoindre la partie ancienne du village. En chemin, vous trouverez un bon choix de restaurants, de cafés et de bars. Promenez-vous dans les rues étroites et escarpées du village jusqu'à la tour où vous trouverez un jardin méditerranéen (entrée payante). La vue depuis la tour est magnifique.
 
@@ -99,7 +100,8 @@ Nous vous conseillons de vous garer sur la rive proche de l'Orb et de traverser 
 
 Olargues est considéré comme l'un des plus beaux villages de France. Cet ancien village médiéval est presque encerclé par la rivière Jaur et s'enorgueillit d'un étonnant pont du XIIe siècle, le Pont du Diable.
 
-![Olargues](./images/olargues.jpg)
+<img width="100%" src="../Images/olargues.jpg" alt="Photo Olargues"/>
+
 
 #### Cité de Minerve
 
@@ -107,7 +109,7 @@ Olargues est considéré comme l'un des plus beaux villages de France. Cet ancie
 
 Cette étonnante cité médiévale est perchée au bord d'une gorge calcaire qui borde le lit d'une rivière asséchée. Suivez les panneaux jusqu'au parking principal (payant), d'où vous pourrez entrer à pied dans la vieille cité. Il y a beaucoup à voir à l'intérieur et à l'extérieur des murs de la cité. 
 
-![Minerve](./images/minerve_2.jpg)
+<img width="100%" src="../Images/minerve_2.jpg" alt="Photo Minerve"/>
 
 À l'intérieur des remparts, vous trouverez des rues étroites bordées de maisons traditionnelles, dont la plupart sont encore habitées. Une sélection de petites boutiques vendent des produits artisanaux locaux, tandis que des bars et des restaurants proposent des rafraîchissements avec des vues fantastiques. 
 
@@ -128,11 +130,11 @@ Minerve était une place forte pour les Cathares qui ont subi un siège en 1210 
 - terrain de football 
 - ping-pong 
 
-![Bayssan](./images/bayssan.jpg) 
+<img width="100%" src="../Images/bayssan.jpg" alt="Photo Bayssan"/>
 
 Le site dispose également d'un parcours de santé, d'une piste cyclable et d'une piste de jogging. 
 
-Pour plus d'informations, voir: <a href="https://scene-de-bayssan.herault.fr/1048-les-espaces-de-loisirs.htm" target="_blank">Scène de Baysann leisure areas</a>.
+Pour plus d'informations, voir: <a href="https://scene-de-bayssan.herault.fr/1048-les-espaces-de-loisirs.htm" target="_blank">Scène de Baysann leisure areas: https://scene-de-bayssan.herault.fr/1048-les-espaces-de-loisirs.htm</a>.
 
 En plus de l'espace de loisirs, il y a une exposition de sculptures, un théâtre et un jardin méditerranéen.
 
@@ -142,9 +144,9 @@ En plus de l'espace de loisirs, il y a une exposition de sculptures, un théâtr
 
 Pour une belle journée pleine d'émotions, nous vous recommandons de louer des kayaks ou des canoës au centre de Réals, près de Cessenon sur Orb. Ils vous équipent d'un équipement de sécurité et vous conduisent haut dans les collines où vous revenez à votre propre vitesse en descendant la rivière. Vous pouvez choisir parmi 4 distances différentes entre 5 kilomètres et 32 kilomètres. Nous vous recommandons de pagayer sur 12 kilomètres, ce qui prend 4 à 5 heures, en passant par des paysages incroyables et des étendues d'eau vive. Faites un pique-, arrêtez-vous en cours de route, baignez-vous dans la rivière et profitez-en.
 
-![Kayak](./images/reals.jpg) 
+<img width="100%" src="../Images/reals.jpg" alt="Photo l'Orb"/> 
 
-Pour plus d'informations et pour réserver, voir: <a href="https://www.base-reals.com/en/" target="_blank">Réals Canoe Kayak</a>.
+Pour plus d'informations et pour réserver, voir: <a href="https://www.base-reals.com/" target="_blank">Réals Canoe Kayak: https://www.base-reals.com/</a>.
 
 ### Sports nautiques au Salagou 
 
@@ -152,7 +154,7 @@ Pour plus d'informations et pour réserver, voir: <a href="https://www.base-real
 
 L'immense lac du Salagou, près de Clermont L'Hérault, dispose de nombreux centres nautiques qui offrent un large éventail d'activités, notamment la voile, la planche à pagaie, le canoë et pédalos. Le lac possède de nombreuses petites criques idéales pour bronzer et se baigner, sans sable. 
 
-![Salagou](./images/salagou.jpg) 
+<img width="100%" src="../Images/salagou.jpg" alt="Photo Lac du Salagou"/>
 
 Si vous faites le voyage, essayez de vous imprégner des paysages spectaculaires du cirque de Navacelles ou du système de grottes souterraines de Saint-Guilhem-Le-Désert.
 

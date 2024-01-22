@@ -1,10 +1,10 @@
 # Les commodités locales
 
-La plupart des commodités mentionnées ici peuvent être trouvées en ligne en utilisant Google Maps et la fonction **Directions**.
+La plupart des commodités mentionnées ici peuvent être trouvées en ligne en utilisant **Google Maps** et la fonction **Directions**.
 
-Pour commencer, entrez l'adresse de la villa. 
+Pour commencer, ouvert l'adresse de la villa. 
 
-- **11 Rue de la Révolution, Sauvian, 34410**
+- <a href="https://www.google.com/maps/place/11+Rue+de+la+R%C3%A9volution,+34410+Sauvian,+France/@43.2899838,3.246942,17z/data=!3m1!4b1!4m5!3m4!1s0x12b10ffa6f06af0b:0xb852f731129424ce!8m2!3d43.2899838!4d3.2491307" target="_blank" >11 Rue de la Revolution</a>
 
 
 ## Supermarchés
@@ -60,8 +60,8 @@ La compagnie de bus beeMob assure la liaison entre Béziers et Vendres, en passa
 
 La ligne de bus et les horaires sont disponibles en ligne sur les sites suivants :
 
-- [Ligne E: Horaires des bus](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole) 
-- [Ligne E: Itinéraire des bus](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
+- [Ligne E horaires des bus: https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/) 
+- [Ligne E itinéraire des bus: https://maps.mybus.io/beziers/voyager/plan-du-reseau/](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
 
 Il y a 8 arrêts de bus sur la route principale qui traverse Sauvian. Tous sont clairement indiqués sur Google maps. L'arrêt de bus le plus proche de la villa est **Font Vive** sur la route de Béziers, près du supermarché G20. 
 
@@ -77,7 +77,7 @@ A 10 minutes en voiture, la **Scène de Bayssan** offre une énorme aire de jeux
 
 Sauvian s'enorgueillit d'un complexe de natation extraordinaire, appelé le centre aquatique Alfred Nakache. Outre une piscine intérieure de 25 mètres, il y a également une piscine olympique chauffée de 50 mètres en plein air. Le terrain comprend également une aire de jeux d'eau pour les enfants et un énorme toboggan à vagues. 
 
-Les prix et les horaires d'ouverture peuvent être consultés en ligne à l'adresse suivante : [Centre Aquatique Alfred Nakache](https://www.beziers-mediterranee.com/equipement/centre-aquatique-alfred-nakache/).
+Les prix et les horaires d'ouverture peuvent être consultés en ligne à l'adresse suivante,  [Centre Aquatique Alfred Nakache: https://www.beziers-mediterranee.com/equipement/centre-aquatique-alfred-nakache/](https://www.beziers-mediterranee.com/equipement/centre-aquatique-alfred-nakache/).
 
 ## Point de vente
 
@@ -87,7 +87,7 @@ Le distributeur de billets le plus proche se trouve à l'extérieur de **La Post
 
 Les poubelles communales, comme le montre la photo suivante, se trouvent dans la **Rue des Horts** et sur l'**Avenue de l'Eglise**, à côté du cimetière. 
 
-![Poubelles communales](./images/bins.jpg)
+<img width="100%" src="../Images/bins.jpg" alt="Photo les poubelles communales"/>
 
 Les poubelles acceptent les bouteilles en verre, le recyclage et les déchets ménagers. A la fin de votre séjour, veuillez jeter tous les déchets restants dans ces poubelles. La société de gestion immobilière facturera les poubelles non vidées.
 

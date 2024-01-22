@@ -1,6 +1,6 @@
 # Local amenities
 
-As a useful starting point, here is a link to the location of the villa on Google Maps: 
+As a useful starting point, open the location of the villa on Google Maps: 
 
 - <a href="https://www.google.com/maps/place/11+Rue+de+la+R%C3%A9volution,+34410+Sauvian,+France/@43.2899838,3.246942,17z/data=!3m1!4b1!4m5!3m4!1s0x12b10ffa6f06af0b:0xb852f731129424ce!8m2!3d43.2899838!4d3.2491307" target="_blank" >11 Rue de la Revolution</a>
 
@@ -64,8 +64,8 @@ The beeMob bus company provide a service that runs between Beziers and Vendres, 
 
 For more information, see:
 
-- [Ligne E: Bus schedule](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/) 
-- [Ligne E: Bus route](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
+- [Ligne E bus schedule: https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/) 
+- [Ligne E bus route: https://maps.mybus.io/beziers/voyager/plan-du-reseau/](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
 
 There are 8 bus stops on the main road through Sauvian. All are clearly marked on Google maps. The closest bus stop to the villa is **Font Vive** on Route de Beziers, by the Carrefour Market supermarket. 
 
@@ -75,13 +75,13 @@ There are play areas to suit all age groups in the park behind the villa.
 
 You can also find an alternative park in Rue des Tulipes, which contains skate ramps and a small area for younger children with swings and slides.
 
-Within a 10 minute drive, the **Scène de Bayssan** provides an enormous play area for children with large colourful climbing frames, swings, and slides. For more information, see [Scène de Bayssan](daysout.md#scene-de-bayssan).
+Within a 10 minute drive, the **Scène de Bayssan** provides an enormous play area for children with large colourful climbing frames, swings, and slides. For more information, see [Days out, Scène de Bayssan](daysout.md#scene-de-bayssan).
 
 ## Swimming complex
 
 Sauvian boasts an amazing swimming complex, called the Alfred Nakache Aquatic centre. As well as an indoor 25 metre pool, there is also an outdoor heated 50 metre Olympic pool. The grounds also include a children's water play area and a huge wave slide. 
 
-For prices and opening times, see [Centre Aquatique Alfred Nakache](https://www.beziers-mediterranee.com/equipement/centre-aquatique-alfred-nakache/).
+For prices and opening times, see [Centre Aquatique Alfred Nakache: https://www.beziers-mediterranee.com/equipement/centre-aquatique-alfred-nakache/](https://www.beziers-mediterranee.com/equipement/centre-aquatique-alfred-nakache/).
 
 ## Cashpoint
 
@@ -91,7 +91,7 @@ The closest cash point is outside **La Poste** on Rue Neuve, Sauvian.
 
 Community bins, as shown in the following photo, can be found on the **Rue des Horts** and on the **Avenue de l'Eglise**, next to the cemetary. 
 
-![Communal bins](./images/bins.jpg)
+<img width="100%" src="../Images/bins.jpg" alt="Photo of local community bins"/>
 
 The bins take glass bottles, recycling, and household waste. At the end of your stay, please dispose of any remaining rubbish in these bins. The property management company will charge for any bins that are left unemptied.
 

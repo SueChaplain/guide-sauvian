@@ -13,7 +13,7 @@ L'extrémité orientale est une plage surveillée avec quelques magasins et rest
 
 À l'extrémité ouest se trouve notre plage préférée, **Les Orpèllieres**. La plage est bordée de dunes de sable et fait partie d'une réserve naturelle qui borde l'embouchure de l'Orb. La plage n'est pas surveillée, mais elle est paisible et isolée. Il faut compter 5 minutes de marche à travers la lande depuis le parking, mais l'effort en vaut la peine. Tournez à droite à l'approche de la plage de Sérignan, à côté d'un magasin agricole, et suivez les panneaux. Si vous n'avez pas préparé votre pique-nique, **Le Coin Gourmand** dans la **Maison de Site des Orpellières** vend des produits locaux, notamment des salades, de la charcuterie et des fromages. 
 
-![Orpellieres](./images/orpellieres.jpg)
+<img width="100%" src="../Images/orpellieres.jpg" alt="Photo Les Orpellieres plage"/>
 
 ## Valras plage
 
@@ -21,7 +21,7 @@ L'extrémité orientale est une plage surveillée avec quelques magasins et rest
 
 Valras plage est une station balnéaire animée avec de nombreux magasins, bars et restaurants. La plage surveillée est plus fréquentée que celle de Sérignan plage, mais elle dispose de nombreux équipements, notamment la location de sports nautiques et des aires de jeux pour les enfants. C'est certainement une bonne destination pour une famille avec de jeunes enfants.
 
-![Valras](./images/valras.jpg)
+<img width="100%" src="../Images/valras.jpg" alt="Photo Valras plage"/>
 
 ## Vendres plage
 
@@ -29,7 +29,7 @@ Valras plage est une station balnéaire animée avec de nombreux magasins, bars 
 
 Vendres plage s'étend de Valras plage jusqu'au port du Chichoulet à l'embouchure de l'Aude. Bien que la plage accueille plusieurs campings, elle est si vaste qu'il y a de l'espace pour tout le monde. L'avantage par rapport à Valras plage, c'est qu'il est plus facile de se garer. Le port abrite également de très bons restaurants de fruits de mer qui cuisinent et servent la pêche du jour. 
 
-![Vendres](./images/vendres.jpg)
+<img width="100%" src="../Images/vendres.jpg" alt="Photo Vendres plage"/>
 
 ## Les Cabanes de Fleury
 
@@ -37,6 +37,6 @@ Vendres plage s'étend de Valras plage jusqu'au port du Chichoulet à l'embouchu
 
 Pour atteindre cette plage de sable, il faut remonter l'Aude depuis le port de Chichoulet et traverser le pont de la Pistoule. La première partie de la plage est surveillée mais laisse place à une partie plus sauvage, plus accidentée qui s'étend à l'infini.  
 
-![Fleury](./images/fleury.jpg)
+<img width="100%" src="../Images/fleury.jpg" alt="Photo Les Cabanes de Fleury plage"/>
 
 La jolie commune des Cabanes dispose de quelques restaurants pour se restaurer.
