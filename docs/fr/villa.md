@@ -44,8 +44,8 @@ Des serviettes de piscine sont mises à la disposition des clients, mais ne doiv
 
 La piscine est nettoyée une fois par semaine et la société de gestion de la piscine dispose d'une clé du portail pour l'accès.
 
-Il y a un filet de piscine dans le garage que vous pouvez utiliser pour enlever les feuilles ou les insectes qui pourraient se retrouver dans l'eau entre les visites d'entretien.
-dans l'eau entre les visites d'entretien.
+Il y a un filet de piscine dans le garage que vous pouvez utiliser pour enlever les feuilles ou les insectes qui pourraient se retrouver dans l'eau entre les visites d'entretien. Vous trouverez également une sélection de jouets aquatiques pour enfants qui ont été donnés par d'anciens clients.
+
 
 **Attention:** La pompe de la piscine s'arrête automatiquement lorsque le niveau de l'eau descend en dessous des ouvertures des paniers des skimmers. Bien que la piscine soit remplie lors des visites d'entretien, le niveau peut baisser en cas de chaleur ou d'utilisation extrêmes. Si vous remarquez une baisse du niveau d'eau, utilisez le robinet extérieur et le tuyau d'arrosage pour faire remonter le niveau jusqu'au milieu de l'ouverture du skimmer.
 
@@ -66,15 +66,7 @@ La table à repasser, le fer à repasser, l'aspirateur et les autres outils ou p
 
 La **poubelle verte** est destinée aux déchets ménagers généraux et est collectée tous les mardis et samedis. Tous les déchets doivent être placés dans des sacs fermés.
 
-Le bac noir avec le couvercle jaune est destiné au recyclage et est collecté toutes les 2 semaines un samedi après-midi. 
-
-Les dates d'été pour 2023 sont les suivantes: 
-
-- 8 juillet 
-- 22 juillet 
-- 5 août 
-- 19 août 
-- 2 septembre 
+Le bac noir avec le couvercle jaune est destiné au recyclage et est collecté toutes les samedis après-midi. 
 
 Notez que le bac de recyclage ne doit pas être utilisé pour le verre, qui doit être apporté dans un bac communautaire. (Vous êtes susceptible de passer plusieurs bacs en verre dédiés dans les rues de Sauvian.) 
 
@@ -119,7 +111,12 @@ Un siège d'appoint pour les jeunes enfants à utiliser à table se trouve dans 
 
 ## Télévision
 
-La télévision est une télévision intelligente, avec la sélection habituelle d'applications telles que Netflix. Les chaînes de télévision françaises sont disponibles et le boîtier Humax permet d'accéder aux chaînes de télévision anglaises.   
+La télévision est une télévision intelligente, avec la sélection habituelle d'applications telles que Netflix. Des chaînes de télévision françaises sont également disponibles.
+
+
+- HDMI 1: Le boîtier Humax permet d'accéder aux chaînes de télévision anglaises.
+- HDMI 2: Amazon Fire Stick pour accéder à des services supplémentaires.
+- HDMI side: Cette fente sur le côté gauche est équipée d'un câble HDMI pour se brancher sur des appareils personnels.
 
 Veuillez ne pas modifier la position ou l'angle de la télévision afin d'éviter toute tension excessive sur les fixations murales.
 

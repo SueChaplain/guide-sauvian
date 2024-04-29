@@ -46,7 +46,7 @@ The pool is cleaned once a week and the pool management company have a key to th
 gate for access.
 
 There is a pool net in the garage that you can use to remove leaves or insects that might find
-their way into the water between maintenance visits.
+their way into the water between maintenance visits. You will also find a selection of children's water toys that have been donated by previous guests.
 
 **Note:** The pool pump automatically stops when the water level drops below the openings to the skimmer baskets. Although the pool is topped up during maintenance visits, the level can
 drop during periods of extreme heat or usage. If you notice a drop in the water level,
@@ -71,14 +71,8 @@ The ironing board, iron, vacuum cleaner and other cleaning tools or products are
 
 The **green bin** is for general household waste, which is collected every Tuesday and Saturday. All waste must be in tied bags.
 
-The **black bin** with the yellow lid is for recycling and is collected every 2 weeks on a
-Saturday afternoon. The Summer dates for 2023 are as follows: 
-
-- 8th July
-- 22nd July
-- 5th August
-- 19th August
-- 2nd September
+The **black bin** with the yellow lid is for recycling and is collected every week on a
+Saturday afternoon. 
 
 Note that the recycling bin must not be used for glass, which should be taken to a community bin. (You are likely to pass several dedicated glass bins around the streets of Sauvian.)
 
@@ -132,9 +126,13 @@ A booster seat for small children to use at the table can be found in the cabine
 ## Television
 
 The television is a smart television, with the usual selection of applications such as Netflix. 
-An Amazon Fire Stick is also provided for accessing additional services. Terrestrial French television channels are also available.
+Terrestrial French television channels are also available. In addition, the following HDMI slots are in use: 
 
-**English channels**: The Humax box provides access to English television channels. However, Humax cannot receive high definition (HD) channels in France. Whilst some non-HD channels are available, the Amazon Fire Stick can be used to reach services such as BBC iPlayer, ITVX, More4, and Channel 5. Before connecting to these services, start the **NordVPN** application on the Fire stick and connect to a UK server. Then start the service you want to watch.    
+- HDMI 1: Humax box for accessing English channels (see note below).
+- HDMI 2: Amazon Fire Stick for accessing additional services.
+- HDMI side: This slot is on the left-hand side of the television and is equipped with an HDMI cable for plugging in to personal devices. 
+
+**English channels**: The Humax box provides access to English television channels. However, Humax doesn't reliably receive high definition (HD) channels in France. Whilst some non-HD channels are available, the Amazon Fire Stick can be used to reach services such as BBC iPlayer, ITVX, More4, and Channel 5. Before connecting to these services, start the **NordVPN** application on the Fire stick (white mountain on a blue background) and connect to a UK server. Then start the service you want to watch.    
 
 Please do not alter the position or angle of the television to avoid excessive stress on the
 wall fixings.

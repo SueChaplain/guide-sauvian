@@ -126,7 +126,8 @@ Minerve était une place forte pour les Cathares qui ont subi un siège en 1210 
 À une courte distance de la villa avec un parking gratuit et de nombreuses activités gratuites, la Scène de Bayssan a beaucoup à offrir. Pour les enfants, une surface de 10 000 mètres carrés est consacrée aux ressources suivantes: 
 
 - parc de jeux pour enfants immense et coloré 
-- skate park -Basket 
+- skate park 
+- Basket 
 - terrain de football 
 - ping-pong 
 

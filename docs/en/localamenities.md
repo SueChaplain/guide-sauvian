@@ -8,11 +8,11 @@ Most of the amenities mentioned here can be found by using the Google Maps **Dir
 
 ## Supermarkets
 
-The closest supermarkets are the **Carrefour Market** (Zac Les Portes de Sauvian) and the **Utile** (11 Avenue  Paul Vidal).
+The closest supermarkets are the **Carrefour Contact** (Zac Les Portes de Sauvian) and the **Utile** (11 Avenue  Paul Vidal).
 
 Both take about 10 minutes to walk to, or just a couple of minutes by car. 
 
-The **Carrefour Market** is the larger of the two and is well stocked with everyday goods as well as fresh bread, vegetables, and meat. On most days they also have a fresh fish counter. This supermarket is open on a Sunday morning. 
+The **Carrefour Contact** is the larger of the two and is well stocked with everyday goods as well as fresh bread, vegetables, and meat. This supermarket is open on a Sunday morning. 
 
 The nearest hypermarket is **Carrefour Sérignan** (Route de Valras) in the neighbouring village of Sérignan, which is about a 10 minute drive. The hypermarket is usually open all day on Sundays during the peak summer period. You can also find an **Aldi** and **Lidl** close to the **Carrefour Sérignan** store.
 
@@ -34,7 +34,7 @@ Several restaurants and food outlets can be found in the centre of Sauvian by Pl
 
 - **Le Nouvel Air**, a traditional French restaurant. 
 - **La Buena Vida**, offering simple meals at modest prices.
-- **Divin Café**, offering a great selection of tapas with occasional live music entertainment.
+- **Les Temps Moderne**, offering tapas and meals with occasional live entertainment.
 - **Chèz Boule** (Les Arcades), a traditional French cafe.
 - **La Cabane**, offering a small Mediterranean menu.
 - **Le table d'Amaya**, our recommendation for a quick takeaway pizza. 
@@ -71,9 +71,7 @@ There are 8 bus stops on the main road through Sauvian. All are clearly marked o
 
 ## Children's play areas
 
-There are play areas to suit all age groups in the park behind the villa. 
-
-You can also find an alternative park in Rue des Tulipes, which contains skate ramps and a small area for younger children with swings and slides.
+There are play areas to suit all age groups in the park behind the villa, including climbing frames, swings and a basketball court. If you turn right and walk through the park to the end of the road, you will find a bicycle circuit, a fitness arena, and a pumptrack. All of these amenities are free to use. 
 
 Within a 10 minute drive, the **Scène de Bayssan** provides an enormous play area for children with large colourful climbing frames, swings, and slides. For more information, see [Days out, Scène de Bayssan](daysout.md#scene-de-bayssan).
 

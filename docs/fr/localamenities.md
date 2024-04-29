@@ -9,13 +9,13 @@ Pour commencer, ouvert l'adresse de la villa.
 
 ## Supermarchés
 
-Les supermarchés les plus proches sont le **G20** (Zac Les Portes de Sauvian) et l'**Utile** (11 Avenue Paul Vidal).
+Les supermarchés les plus proches sont le **Carrefour Contact** (Zac Les Portes de Sauvian) et l'**Utile** (11 Avenue Paul Vidal).
 
 Tous deux sont accessibles en 10 minutes à pied ou en quelques minutes en voiture. 
 
-Le **G20** est le plus grand des deux et est bien approvisionné en produits de consommation courante ainsi qu'en pain frais, des légumes et de la viande. La plupart du temps, il y a également un comptoir de poisson frais. Ce supermarché est ouvert le dimanche matin. 
+Le **Carrefour Contact** est le plus grand des deux et est bien approvisionné en produits de consommation courante ainsi qu'en pain frais, des légumes et de la viande. Ce supermarché est ouvert le dimanche matin. 
 
-L'hypermarché le plus proche est **Carrefour** (Route de Valras) dans le village voisin de Sérignan, à environ 10 minutes en voiture. Le **Carrefour** est généralement ouvert toute la journée le dimanche pendant la période de pointe de l'été. Vous trouverez également un **Aldi** et un **Lidl** à proximité du **Carrefour**.
+L'hypermarché le plus proche est **Carrefour Sérignan** (Route de Valras) dans le village voisin de Sérignan, à environ 10 minutes en voiture. Le **Carrefour** est généralement ouvert toute la journée le dimanche pendant la période de pointe de l'été. Vous trouverez également un **Aldi** et un **Lidl** à proximité du **Carrefour**.
 
 ## Boucherie et boulangerie
 
@@ -35,10 +35,10 @@ Plusieurs restaurants et points de vente se trouvent dans le centre de Sauvian, 
 
 - **Le Nouvel Air**, un restaurant français traditionnel. 
 - **La Buena Vida**, qui propose des repas simples à des prix modestes.
-- **Le Divin Café**, qui propose un grand choix de tapas et des concerts occasionnels.
+- **Les Temps Moderne**, qui propose des repas et de tapas et des concerts occasionnels.
 - **Chèz Boule** (Les Arcades), un café français traditionnel.
 - **La Cabane**, qui propose un petit menu méditerranéen.
-- **Pizza Atina**, notre recommandation pour une pizza rapide à emporter. 
+- **Le table d'Amaya**, notre recommandation pour une pizza rapide à emporter. 
 
 Le dimanche, vous pouvez acheter du poulet fraîchement rôti et du couscous méditerranéen auprès d'un vendeur ambulant, qui utilise le parking du centre de Sauvian. Ses plats sont très appréciés des habitants.
 
@@ -69,9 +69,9 @@ Il y a 8 arrêts de bus sur la route principale qui traverse Sauvian. Tous sont 
 
 Il y a des aires de jeux pour tous les âges dans le parc derrière la villa. 
 
-Vous pouvez également trouver un autre parc dans la rue des Tulipes, qui contient des rampes de skate et un petit espace pour les enfants plus jeunes avec des balançoires et des toboggans.
+Il y a des aires de jeux pour tous les âges dans le parc derrière la villa, y compris des structures d'escalade, des balançoires et un terrain de basket-ball. Si vous tournez à droite et traversez le parc jusqu'au bout de la route, vous trouverez un circuit cyclable, une salle de fitness et un pumptrack. Toutes ces commodités sont gratuites.
 
-A 10 minutes en voiture, la **Scène de Bayssan** offre une énorme aire de jeux pour les enfants avec de grands cadres d'escalade colorés, des balançoires et des toboggans.
+A 10 minutes en voiture, la **Scène de Bayssan** offre une énorme aire de jeux pour les enfants avec de grands cadres d'escalade colorés, des balançoires et des toboggans. Voir [Jours d'excursion, Scène de Bayssan](daysout.md#scene-de-bayssan).
 
 ## Complexe aquatique
 
