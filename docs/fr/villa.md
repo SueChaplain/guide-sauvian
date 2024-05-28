@@ -78,7 +78,7 @@ Remarque: La société de gestion immobilière facturera tous les bacs qui ne so
 
 ## Appareils ménagers
 
-Si vous avez des difficultés à faire fonctionner l'un des appareils ménagers, vous trouverez les d'utilisation se trouvent dans le tiroir inférieur du meuble de la salle à manger.
+Si vous avez des difficultés à faire fonctionner l'un des appareils ménagers, vous trouverez les conseils d'utilisation se trouvent dans le tiroir inférieur du meuble de la salle à manger.
 
 Le réfrigérateur-congélateur LG est équipé d'un réservoir d'eau dans la porte du réfrigérateur plutôt que d'un raccordement à l'eau de ville. Cela signifie que vous pouvez choisir de remplir le réservoir avec de l'eau du robinet ou de l'eau minérale, qui est ensuite utilisée pour l'eau froide, les glaçons et la glace pilée.
 

@@ -16,8 +16,8 @@ nav:
     - Local amenities: localamenities.md
     - Local beaches: localbeaches.md
     - Days out: daysout.md
-    - Before you leave: endofstay.md
     - Need help?: help.md
+    - Before you leave: endofstay.md
     
 plugins:
   - search
@@ -39,5 +39,6 @@ plugins:
             Local amenities: Les commodités locales
             Local beaches: Les plages locales
             Days out: Jours d'excursion
-            Before you leave: Avant de partir
             Need help?: Besion d'aide?
+            Before you leave: Avant de partir
+            

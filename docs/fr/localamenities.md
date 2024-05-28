@@ -67,8 +67,6 @@ Il y a 8 arrêts de bus sur la route principale qui traverse Sauvian. Tous sont 
 
 ## Aires de jeux pour enfants
 
-Il y a des aires de jeux pour tous les âges dans le parc derrière la villa. 
-
 Il y a des aires de jeux pour tous les âges dans le parc derrière la villa, y compris des structures d'escalade, des balançoires et un terrain de basket-ball. Si vous tournez à droite et traversez le parc jusqu'au bout de la route, vous trouverez un circuit cyclable, une salle de fitness et un pumptrack. Toutes ces commodités sont gratuites.
 
 A 10 minutes en voiture, la **Scène de Bayssan** offre une énorme aire de jeux pour les enfants avec de grands cadres d'escalade colorés, des balançoires et des toboggans. Voir [Jours d'excursion, Scène de Bayssan](daysout.md#scene-de-bayssan).
