@@ -9,7 +9,7 @@ Pour commencer, ouvert l'adresse de la villa.
 
 ## Supermarchés
 
-Les supermarchés les plus proches sont le **Carrefour Contact** (Zac Les Portes de Sauvian) et l'**Utile** (11 Avenue Paul Vidal).
+Les supermarchés les plus proches sont le **Carrefour Contact** (Zac Les Portes de Sauvian) et le **G20** (11 Avenue Paul Vidal).
 
 Tous deux sont accessibles en 10 minutes à pied ou en quelques minutes en voiture. 
 
@@ -21,7 +21,7 @@ L'hypermarché le plus proche est **Carrefour Sérignan** (Route de Valras) dans
 
 En plus des supermarchés, le village dispose également d'une boucherie et d'une boulangerie indépendantes. 
 
-La boucherie, **Boucherie Chabert** (9 Avenue Paul Vidal), se trouve à côté de l'Utile.
+La boucherie (9 Avenue Paul Vidal), se trouve à côté de le G20.
 
 Pour le pain frais, les croissants et autres produits artisanaux, nous vous recommandons **Le Fournil de Sauvian** (25 Avenue Paul Vidal). 
 

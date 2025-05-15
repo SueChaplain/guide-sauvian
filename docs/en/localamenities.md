@@ -8,7 +8,7 @@ Most of the amenities mentioned here can be found by using the Google Maps **Dir
 
 ## Supermarkets
 
-The closest supermarkets are the **Carrefour Contact** (Zac Les Portes de Sauvian) and the **Utile** (11 Avenue  Paul Vidal).
+The closest supermarkets are the **Carrefour Contact** (Zac Les Portes de Sauvian) and the **G20** (11 Avenue  Paul Vidal).
 
 Both take about 10 minutes to walk to, or just a couple of minutes by car. 
 
@@ -20,7 +20,7 @@ The nearest hypermarket is **Carrefour Sérignan** (Route de Valras) in the neig
 
 In addition to the supermarkets, the village also has an independant butchers and bakery. 
 
-The butchers, **Boucherie Chabert** (9 Avenue Paul Vidal), can be found next to the Utile.
+The butchers (9 Avenue Paul Vidal), can be found next to the G20.
 
 For fresh bread, croissants, and other artisan products, we recommend **Le Fournil de Sauvian** (25 Avenue Paul Vidal). 
 

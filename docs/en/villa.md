@@ -99,13 +99,9 @@ The Languedoc is the windiest region of France. In the peak season, the wind is 
 care. During high winds, we recommend keeping the back doors and windows closed, and
 closing the internal door to the green bedroom before opening the external door to the back of the property.
 
-## Sun shades
+## Sun shade
 
-An automatic awning is available to shade the outdoor dining table. 
-
-A triangular sail shade is also stored in the garage and can be set up between the car port and external wall to provide additional shade on the terrace. See the picture on the [Welcome page](index.md).
-
-During high winds, please do not use either shade. 
+An automatic awning is available to shade the outdoor dining table. To avoid damage, please do not use the shade during high winds. 
 
 ## Fuse box
 

@@ -89,11 +89,7 @@ Le Languedoc est la région la plus ventée de France. En pleine saison, le vent
 
 ## Brise-soleil
 
-Un store automatique est disponible pour ombrager la table à manger extérieure. 
-
-Un parasol triangulaire est également stocké dans le garage et peut être installé entre l'abri de voiture et le mur extérieur pour fournir un ombrage supplémentaire sur la terrasse. Voir la photo sur la couverture.
-
-En cas de vents violents, n'utilisez aucun des deux parasols. 
+Un store automatique est disponible pour ombrager la table à manger extérieure. Pour éviter tout dommage, veuillez ne pas utiliser l'ombre en cas de vent fort.
 
 ## Boîte à fusibles
 
