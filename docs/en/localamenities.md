@@ -89,7 +89,7 @@ The closest cash point is outside **La Poste** on Rue Neuve, Sauvian.
 
 Community bins, as shown in the following photo, can be found on the **Rue des Horts** and on the **Avenue de l'Eglise**, next to the cemetary. 
 
-<img width="100%" src="../Images/bins.jpg" alt="Photo of local community bins"/>
+<img width="100%" src="./Images/bins.jpg" alt="Photo of local community bins"/>
 
 The bins take glass bottles, recycling, and household waste. At the end of your stay, please dispose of any remaining rubbish in these bins. The property management company will charge for any bins that are left unemptied.
 
