@@ -1,6 +1,6 @@
 # Welcome to Sauvian villa
 
-<img width="100%" src="../Images/palmvilla.png" alt=""/>
+<img width="100%" src="./Images/palmvilla.png" alt=""/>
 
 
 We hope you had a good journey! 
