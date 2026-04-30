@@ -35,7 +35,7 @@ Several restaurants and food outlets can be found in the centre of Sauvian by Pl
 - **Le Nouvel Air**, a traditional French restaurant. 
 - **La Buena Vida**, offering simple meals at modest prices.
 - **Les Temps Moderne**, offering tapas and meals with occasional live entertainment.
-- **Chèz Boule** (Les Arcades), a traditional French cafe.
+- **Izmir**, offering kebabs and other Turkish cuisine.
 - **La Cabane**, offering a small Mediterranean menu.
 - **Le table d'Amaya**, our recommendation for a quick takeaway pizza. 
 

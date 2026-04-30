@@ -36,7 +36,7 @@ Plusieurs restaurants et points de vente se trouvent dans le centre de Sauvian, 
 - **Le Nouvel Air**, un restaurant français traditionnel. 
 - **La Buena Vida**, qui propose des repas simples à des prix modestes.
 - **Les Temps Moderne**, qui propose des repas et de tapas et des concerts occasionnels.
-- **Chèz Boule** (Les Arcades), un café français traditionnel.
+- **Izmir**, qui propose des kebabs et d'autres plats turcs.
 - **La Cabane**, qui propose un petit menu méditerranéen.
 - **Le table d'Amaya**, notre recommandation pour une pizza rapide à emporter. 
 
