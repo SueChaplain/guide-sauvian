@@ -69,7 +69,7 @@ The ironing board, iron, vacuum cleaner and other cleaning tools or products are
 
 ## Bin collections
 
-The **green bin** is for general household waste, which is collected every Tuesday and Saturday. All waste must be in tied bags.
+The **green bin** is for general household waste, which is collected every Tuesday and Saturday afternoon. All waste must be in tied bags.
 
 The **black bin** with the yellow lid is for recycling and is collected every week on a
 Saturday afternoon. 

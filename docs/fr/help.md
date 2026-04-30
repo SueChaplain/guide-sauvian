@@ -2,6 +2,12 @@
 
 <img width="100%" src="../Images/help.jpg" alt="Photo telephone"/>
 
+**URGENCES**
+
+- **Gendarmerie:** **17**
+- **Pompiers:**  **18**
+- **Samu:** **15**
+
 **South France Holiday Villas** sont à votre disposition pour vous aider en cas de problème concernant la villa. Si vous éprouvez des difficultés, veuillez communiquer avec :
 
  

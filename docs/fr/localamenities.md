@@ -27,7 +27,7 @@ Pour le pain frais, les croissants et autres produits artisanaux, nous vous reco
 
 ## Pharmacie
 
-Sauvian compte deux pharmacies, situées sur l'avenue Paul Vidal. La plus proche est **Pharmacie La Font Vive** à côté du rond-point principal. Plus loin vers Sérignan, vous trouverez la **Pharmacie Cubizolle**, de couleur rose vif. 
+La plus proche est **Pharmacie La Font Vive** sur l'avenue Paul Vidal à côté du rond-point principal. 
 
 ## Bars et restaurants
 
@@ -56,18 +56,19 @@ L'office de tourisme le plus proche se trouve à Sérignan. Traversez Sauvian su
 
 ## Service de bus
 
-La compagnie de bus beeMob assure la liaison entre Béziers et Vendres, en passant par les villages de Sauvian et de Sérignan. Le bus circule régulièrement pendant la journée et assez tard dans la soirée en haute saison. Le coût est de 1 euro par trajet, quelle que soit la destination sur la ligne de bus. Il est également possible d'acheter une carte journalière pour 3 euros ou un carnet de tickets à utiliser partout sur le réseau de bus beeMob de Béziers.
+La compagnie de bus beeMob assure la liaison entre Béziers et Vendres, en passant par les villages de Sauvian et de Sérignan. Le bus circule régulièrement pendant la journée et assez tard dans la soirée en haute saison. Les enfants de moins de 6 ans voyagent gratuitement. Le coût est de 1 euro par trajet, quelle que soit la destination sur la ligne de bus. Il est également possible d'acheter une carte journalière pour 3 euros ou un carnet de tickets à utiliser partout sur le réseau de bus beeMob de Béziers.
 
-La ligne de bus et les horaires sont disponibles en ligne sur les sites suivants :
+Consultez le trajet et les horaires du bus **Ligne E** à l'adresse en ligne suivante:
 
-- [Ligne E horaires des bus: https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/) 
-- [Ligne E itinéraire des bus: https://maps.mybus.io/beziers/voyager/plan-du-reseau/](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
+- [BeeMob: https://beemob.fr/fr/](https://beemob.fr/fr/) 
+
+Vous pouvez également utiliser l'application mobile, qui vous permet de réserver vos billets en ligne et propose des services supplémentaires comme la planification d'itinéraire. Recherchez **NéMO (Ex-MyBus)** sur l'App Store ou Google Play.
 
 Il y a 8 arrêts de bus sur la route principale qui traverse Sauvian. Tous sont clairement indiqués sur Google maps. L'arrêt de bus le plus proche de la villa est **Font Vive** sur la route de Béziers, près du supermarché G20. 
 
 ## Aires de jeux pour enfants
 
-Il y a des aires de jeux pour tous les âges dans le parc derrière la villa, y compris des structures d'escalade, des balançoires et un terrain de basket-ball. Si vous tournez à droite et traversez le parc jusqu'au bout de la route, vous trouverez un circuit cyclable, une salle de fitness et un pumptrack. Toutes ces commodités sont gratuites.
+Il y a des aires de jeux pour tous les âges dans le parc derrière la villa, y compris des structures d'escalade, des balançoires, un terrain de basket-ball, et un circuit cyclable. Si vous tournez à droite et traversez le parc jusqu'au bout de la route, vous trouverez une salle de fitness et un pumptrack. Toutes ces commodités sont gratuites.
 
 A 10 minutes en voiture, la **Scène de Bayssan** offre une énorme aire de jeux pour les enfants avec de grands cadres d'escalade colorés, des balançoires et des toboggans. Voir [Jours d'excursion, Scène de Bayssan](daysout.md#scene-de-bayssan).
 
@@ -79,7 +80,7 @@ Les prix et les horaires d'ouverture peuvent être consultés en ligne à l'adre
 
 ## Point de vente
 
-Le distributeur de billets le plus proche se trouve à l'extérieur de **La Poste**, rue Neuve, à Sauvian.
+Le distributeur de billets le plus proche se trouve à Sérignan.
 
 ## Bacs communautaires
 

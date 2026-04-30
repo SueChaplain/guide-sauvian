@@ -64,7 +64,7 @@ La table à repasser, le fer à repasser, l'aspirateur et les autres outils ou p
 
 ## Collecte des poubelles
 
-La **poubelle verte** est destinée aux déchets ménagers généraux et est collectée tous les mardis et samedis. Tous les déchets doivent être placés dans des sacs fermés.
+La **poubelle verte** est destinée aux déchets ménagers généraux et est collectée tous les mardis et samedis après-midi. Tous les déchets doivent être placés dans des sacs fermés.
 
 Le bac noir avec le couvercle jaune est destiné au recyclage et est collecté toutes les samedis après-midi. 
 

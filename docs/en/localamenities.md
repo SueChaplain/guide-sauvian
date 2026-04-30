@@ -24,9 +24,9 @@ The butchers (9 Avenue Paul Vidal), can be found next to the G20.
 
 For fresh bread, croissants, and other artisan products, we recommend **Le Fournil de Sauvian** (25 Avenue Paul Vidal). 
 
-## Pharmacy
+## Pharmacy 
 
-Sauvian has two pharmacies, located on Avenue Paul Vidal. The closest is **Pharmacie La Font Vive** next to the main roundabout. Further towards Sérignan you can find the bright pink **Pharmacie Cubizolle**. 
+The closest is **Pharmacie La Font Vive** on Avenue Paul Vidal next to the main roundabout.
 
 ## Bars and restaurants
 
@@ -60,18 +60,19 @@ The closest tourist office is in Sérignan. Travel through Sauvian on the Avenue
 
 ## Bus service
 
-The beeMob bus company provide a service that runs between Beziers and Vendres, passing through Sauvian and Sérignan villages. The bus runs regularly during the day and quite late into the evening in peak season. The cost is 1 euro per journey, regardless of the destination on the bus route. You can also buy a day pass for 3 euros or a booklet of tickets to use anywhere on the Beziers beeMob bus network.
+The beeMob bus company provide a service that runs between Beziers and Vendres, passing through Sauvian and Sérignan villages. The bus runs regularly during the day and quite late into the evening in peak season. The cost is 1 euro per journey, regardless of the destination on the bus route. Children under 6 years old travel for free. You can also buy a day pass or a booklet of tickets to use anywhere on the Beziers beeMob bus network.
 
-For more information, see:
+Look for the **Ligne E** bus route and timetable at the following online location:
 
-- [Ligne E bus schedule: https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/](https://maps.mybus.io/beziers/voyager/lignes/de-gaulle-port-conchylicole/) 
-- [Ligne E bus route: https://maps.mybus.io/beziers/voyager/plan-du-reseau/](https://maps.mybus.io/beziers/voyager/plan-du-reseau/)
+- [BeeMob: https://beemob.fr/fr/](https://beemob.fr/fr/) 
+
+Alternatively, there is a mobile app, which allows you to book tickets online as well as providing additional services like route planning. Search for **NéMO (Ex-MyBus)** on the Apple Store or Google Play.
 
 There are 8 bus stops on the main road through Sauvian. All are clearly marked on Google maps. The closest bus stop to the villa is **Font Vive** on Route de Beziers, by the Carrefour Market supermarket. 
 
 ## Children's play areas
 
-There are play areas to suit all age groups in the park behind the villa, including climbing frames, swings and a basketball court. If you turn right and walk through the park to the end of the road, you will find a bicycle circuit, a fitness arena, and a pumptrack. All of these amenities are free to use. 
+There are play areas to suit all age groups in the park behind the villa, including climbing frames, swings, a basketball court and a bicycle circuit. If you turn right and walk through the park to the end of the road, you will find a fitness arena and a pumptrack. All of these amenities are free to use.
 
 Within a 10 minute drive, the **Scène de Bayssan** provides an enormous play area for children with large colourful climbing frames, swings, and slides. For more information, see [Days out, Scène de Bayssan](daysout.md#scene-de-bayssan).
 
@@ -83,7 +84,7 @@ For prices and opening times, see [Centre Aquatique Alfred Nakache: https://www.
 
 ## Cashpoint
 
-The closest cash point is outside **La Poste** on Rue Neuve, Sauvian.
+The closest cashpoint is in the Sérignan market square.
 
 ## Community bins
 
